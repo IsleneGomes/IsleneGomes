@@ -1,7 +1,10 @@
-### Oi povo! 👋
+<div align="center">
+	<img src="https://github.com/IsleneGomes/IsleneGomes/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
 
-- 🔭 O!!
-  Meu nome é Islene
+<h1 align="center">Olá 👋, satisfação ter você aqui.</h1>
+
+- 🔭 Meu nome é Islene
 - 🌱 Afinal o que faço da vida???
   Atualmente estou estudando 📚 o Módulo de BackEnd na Trybe. Tenho aqui projetos desenvolvidos em Javascript, HTML, CSS e React JS. Dá uma olhadinha 😊
 - 👯 Trabalho em Equipe!?
@@ -26,9 +29,9 @@
 	<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:islenegomes@gmail.com" />
 </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsleneGomes&show_icons=true&theme=tokyonight"/>
+[![Islene Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsleneGomes)](https://github.com/IsleneGomes/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsleneGomes&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsleneGomes)](https://github.com/IsleneGomes/github-readme-stats)
 
 ###fim  
 
