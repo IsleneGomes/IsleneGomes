@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/IsleneGomes/IsleneGomes/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
+	<img src="https://gist.github.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9#file-github-gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 <h1 align="center">Olá 👋, satisfação ter você aqui.</h1>
