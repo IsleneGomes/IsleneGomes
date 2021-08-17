@@ -12,7 +12,7 @@
 - 🤔 Cooperação é o que você quer saber?
   Sempre tento ajudar os colegas e se dá ruim pra mim eu corro pra pedir ajuda também 😄
 - 💬 Sobre mim:
-  Sou graduada 🎓 em Matemática pela Universidade Federal de Goiás. Estudo Licenciatura da Computação no Instituto Federal do Triângulo Mineiro e faço um curso intensivo de imersão em FullStack na Trybe.
+  Sou graduada 🎓 em Matemática pela Universidade Federal de Goiás. Estudo Licenciatura em Computação no Instituto Federal do Triângulo Mineiro e faço um curso intensivo de imersão em FullStack na Trybe.
 - 📫 Quer falar comigo?
   Acessa aí meu linkedIn, ou manda um e-mail
 - ⚡ Hobbies:
