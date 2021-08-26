@@ -19,8 +19,8 @@
   * Cozinhar
   * Viajar
   * Aproveitar a vida com a família
-  <br />
- -<a href="https://islenegomes.github.io/portfolio/" alt="portfolio do github" target="_blank">Portfolio e Currículo</a>
+  
+ - <a href="https://islenegomes.github.io/portfolio/" alt="portfolio do github" target="_blank">Portfolio e Currículo</a>
   
 <a href="https://github.com/IsleneGomes" alt="github" target="_blank">
 	<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white" alt="logotipo do github">
