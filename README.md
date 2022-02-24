@@ -6,13 +6,13 @@
 
 - 🔭 Meu nome é Islene
 - 🌱 Afinal o que faço da vida???
-  Atualmente estou estudando 📚 o Módulo de BackEnd na Trybe. Tenho aqui projetos desenvolvidos em Javascript, HTML, CSS e React JS. Dá uma olhadinha 😊
+  Atualmente estou estudando 📚 o Módulo de BackEnd na Trybe. Tenho aqui projetos desenvolvidos em Java, Javascript, HTML, CSS, React JS, NodeJs, MongoDb, MySQL. Dá uma olhadinha 😊
 - 👯 Trabalho em Equipe!?
-  Tenho vários projetos em grupo, e acho que você vai curtir bastate. PS: Dê uma olhadinha no Project APP Recipes
+  Tenho projetos em grupo, e acho que você vai curtir bastate. PS: Dê uma olhadinha no Project APP Recipes
 - 🤔 Cooperação é o que você quer saber?
-  Sempre tento ajudar os colegas e se dá ruim pra mim eu corro pra pedir ajuda também 😄
+  Ajudo os colegas e se dá ruim pra mim eu corro pra pedir ajuda também 😄
 - 💬 Sobre mim:
-  Sou graduada 🎓 em Matemática pela Universidade Federal de Goiás. Estudo Licenciatura em Computação no Instituto Federal do Triângulo Mineiro e faço um curso intensivo de imersão em FullStack na Trybe.
+  Sou graduada 🎓 em Matemática pela Universidade Federal de Goiás. Estudo Licenciatura em Computação no Instituto Federal do Triângulo Mineiro e faço um curso intensivo de imersão em Web FullStack na Trybe.
 - 📫 Quer falar comigo?
   Acessa aí meu linkedIn, ou manda um e-mail
    - <a href="https://islenegomes.github.io/portfolio/" alt="portfolio do github" target="_blank">Portfolio e Currículo</a>
