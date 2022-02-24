@@ -6,7 +6,7 @@
 
 - 🔭 Meu nome é Islene
 - 🌱 Afinal o que faço da vida???
-  Atualmente estou estudando 📚 o Módulo de BackEnd na Trybe. Tenho aqui projetos desenvolvidos em Java, Javascript, HTML, CSS, React JS, NodeJs, MongoDb, MySQL. Dá uma olhadinha 😊
+  Atualmente estou estudando 📚 o Módulo de Ciência da Computação na Trybe. Tenho aqui projetos desenvolvidos em Java, Javascript, HTML, CSS, React JS, NodeJs, MongoDb, MySQL. Dá uma olhadinha 😊
 - 👯 Trabalho em Equipe!?
   Tenho projetos em grupo, e acho que você vai curtir bastate. PS: Dê uma olhadinha no Project APP Recipes
 - 🤔 Cooperação é o que você quer saber?
